@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-shovels",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Shovels MCP — wraps the Shovels.ai API (shovels.ai)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "shovels",
     "gatewaySlug": "shovels",
-    "sourceHash": "v1-ce57ba53a3fbc844b8c6af1f9ff582a585ba2124d6f173c156c79e459dbfa05f",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-0bd72cabf3d2d8130218b69f57ab157a911352a745f75ae228d0dec93ae166d8",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
