@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/shovels",
-  "title": "Shovels",
-  "description": "Shovels MCP — wraps the Shovels.ai API (shovels.ai)",
-  "version": "0.2.1",
+  "title": "Shovels (Unofficial)",
+  "description": "Unofficial Shovels MCP — wraps the Shovels.ai API (shovels.ai)",
+  "version": "0.2.2",
   "websiteUrl": "https://pipeworx.io/packs/shovels",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-shovels",
